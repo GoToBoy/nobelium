@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '卡拉是条狗',
-  author: 'kala',
+  title: 'Taro🉐️自留地',
+  author: 'taro',
   email: 'goby.hl@gmail.com',
-  link: 'https://nobelium.vercel.app',
-  description: '新篇章 始于2021',
+  link: 'https://tarolan.vercel.app',
+  description: '新篇章',
   lang: 'zh-cn',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
@@ -13,9 +13,9 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: '',
   seo: {
-    keywords: ['博客', '卡拉羊', '卡拉狗','前端'],
+    keywords: ['博客', 'taro', '大蓝'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
