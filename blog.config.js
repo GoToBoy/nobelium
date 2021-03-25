@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Taro🉐️自留地',
+  title: 'Taroの自留地',
   author: 'taro',
   email: 'goby.hl@gmail.com',
   link: 'https://tarolan.vercel.app',
@@ -15,7 +15,7 @@ const BLOG = {
   showArchive: true, // WIP
   socialLink: '',
   seo: {
-    keywords: ['博客', 'taro', '大蓝'],
+    keywords: ['博客', 'Taro', '大蓝'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
